@@ -16,7 +16,7 @@ Product Listing and Search
 Shopping Cart and Checkout
 Order Management
 Responsive Design
-Payment Integration (if implemented)
+Payment Integration 
 Admin Dashboard for Product and Order Management
 # Tech Stack
 ## Frontend
